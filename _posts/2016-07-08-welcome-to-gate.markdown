@@ -8,8 +8,9 @@ Every organisation ends up using LDAP as primary single sign on, also they end u
 
 While Gate was conceived as providing rest based authentication, I hope it evolves into a better **Identity Management** and authentication and authorisation tool.
 
-Gate is deployed at [GoJek][http://www.go-jek.com] and many more companies.
+Gate is deployed at [GoJek][gojek] and many more companies.
 
-Check out the [Gate docs][gate-portal] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-docs]. If you have questions, you can ask thme by raising issue on main gate repo, we don't track issues on other repos
+Check out the [Gate docs][gate-portal] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [GitHub repo][gate-portal]. If you have questions, you can ask thme by raising issue on main gate repo, we don't track issues on other repos.
 
 [gate-portal]: http://github,com/gate-sso/gate
+[gojek]: http://go-jek.com
