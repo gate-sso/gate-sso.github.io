@@ -1,15 +1,22 @@
 ---
 layout: page
-title: About
+title: The OpenSource SSO and VPN Solution
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+gate is being developed for Identity management, Access control and Authoization. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+gate supports ONLY two factor authentication, it does not support plain passwords. Below are few features.
+* Google MFA authentication
+* Groups based access for users
+* PAM Module supporting MFA Authentication
+* Gate-NSS Cache module for NSS implementation
+* CAS gae module for SSO
+* IPSec VPN Module support
+* OpenVPN VPN module support
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+You can find the source code for gate and all associated modules at:
+{% include icon-github.html username="gate-sso" %} /
+[gate](https://github.com/gate-sso/gate)
+
