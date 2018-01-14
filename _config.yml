@@ -11,7 +11,8 @@ email: ajeygore@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   gate is a new age Multifactor Authentication based SSO solution. Gate allows you to create hosts, groups
   and users and provides authentication and authorisation across different kind of SSO
-  Gate also allows you to setup VPN Solution - such as OpenVPN
+  Gate also allows you to setup VPN Solution - such as OpenVPN & IPSec.
+  
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
