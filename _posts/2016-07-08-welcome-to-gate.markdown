@@ -22,5 +22,5 @@ Thanks
 
 Ajey
 
-[gate-portal]: http://github,com/gate-sso/gate
+[gate-portal]: http://github.com/gate-sso/gate
 [gojek]: http://go-jek.com
