@@ -6,15 +6,40 @@ layout: default
 
   <h1 class="page-heading">Gate Source: <a href="http://github.com/gate-sso/"> on github </a> </h1>
 
+  gate supports ONLY two factor authentication, it does not support plain passwords. Below are few features.
+  <ul>
+    <li>
+      Google MFA authentication
+    </li>
+    <li>
+      Groups based access for users
+    </li>
+    <li>
+      PAM Module supporting MFA Authentication
+    </li>
+    <li>
+      Gate-NSS Cache module for NSS implementation
+    </li>
+    <li>
+      CAS gae module for SSO
+    </li>
+    <li>
+      IPSec VPN Module support
+    </li>
+    <li>
+      OpenVPN VPN module support
+    </li>
+  </ul>
+
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    </li>
     {% endfor %}
   </ul>
 

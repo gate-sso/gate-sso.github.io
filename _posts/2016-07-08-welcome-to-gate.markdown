@@ -18,9 +18,6 @@ Gate is deployed at [GoJek][gojek] and many more companies.
 
 Check out the [Gate docs][gate-portal] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [GitHub repo][gate-portal]. If you have questions, you can ask them by raising issue on main gate repo, we don't track issues on other repos.
 
-Thanks
-
-Ajey
 
 [gate-portal]: http://github.com/gate-sso/gate
 [gojek]: http://go-jek.com
